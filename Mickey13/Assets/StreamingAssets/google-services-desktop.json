@@ -1,0 +1,3 @@
+{
+  "comment": "Desktop Firebase config removed. Inject google-services-desktop.json securely at build time."
+}
