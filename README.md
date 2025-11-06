@@ -27,7 +27,7 @@
 ## 게임 플레이
 
 [<img width="102" height="144" alt="레이어 1" src="https://github.com/user-attachments/assets/98b83d91-5c7d-4423-8a0b-8c9f97de8d60" />](https://www.notion.so/teamsparta/13-2982dc3ef51480e784bee5eee5e02781?source=copy_link#2a32dc3ef5148036ba5dc8ee69704ab1)
-[<img width="104" height="144" alt="레이어 1" src="https://github.com/user-attachments/assets/2e2641e4-3f72-42db-a620-7273dce01bd9" />]([https://www.youtube.com/watch?v=xvFZjo5PgG0](https://drive.google.com/file/d/13Ok8VZBG3iCmaUW4dSsXL76l6LlOTonH/view))
+[<img width="104" height="144" alt="레이어 1" src="https://github.com/user-attachments/assets/2e2641e4-3f72-42db-a620-7273dce01bd9" />](https://drive.google.com/file/d/13Ok8VZBG3iCmaUW4dSsXL76l6LlOTonH/view)
 
 ## 브로셔
 
